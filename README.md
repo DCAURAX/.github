@@ -14,7 +14,7 @@ The code for our  web application is available in our [Web App Repository](https
 
 ## Documentation
 
-For detailed information on how to use the StackSafe platform, please refer to [Documentation](https://gnosis.io/)  on integrating superfluid protocol.
+For detailed information on how to use the DCAuraX  platform, please refer to [Documentation](https://gnosis.io/)  on integrating superfluid protocol.
 
 ## Demo Video
 
