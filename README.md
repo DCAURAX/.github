@@ -10,15 +10,15 @@ DAUCA  combines the power of smart contracts and decentralized exchanges to enab
 
 ## Code
 
-The code for our StackSafe web application is available in our [Web App Repository](https://github.com/StackSafe/web-App). This repository contains the frontend and backend implementations, as well as the smart contracts that power our platform. Feel free to explore the codebase, contribute to the project, and provide feedback.
+The code for our  web application is available in our [Web App Repository](https://github.com/StackSafe/web-App). This repository contains the frontend and backend implementations, as well as the smart contracts that power our platform. Feel free to explore the codebase, contribute to the project, and provide feedback.
 
 ## Documentation
 
-For detailed information on how to use the StackSafe platform, please refer to [Documentation](https://gnosis.io/)  on integrating with Safe and Gnosis Chain to enhance your DCA experience.
+For detailed information on how to use the StackSafe platform, please refer to [Documentation](https://gnosis.io/)  on integrating superfluid protocol.
 
 ## Demo Video
 
-To get a visual understanding of how the StackSafe platform works, please watch our [Demo Video](https://www.youtube.com/watch?v=demo-video-link). The video provides an overview of the platform's features, demonstrates the investment process, and showcases the benefits of using DCA for cryptocurrency investing.
+To get a visual understanding of how the DCAURAX  platform works, please watch our [Demo Video](https://www.youtube.com/watch?v=demo-video-link). The video provides an overview of the platform's features, demonstrates the investment process, and showcases the benefits of using DCA for cryptocurrency investing.
 
 ## Team
 
